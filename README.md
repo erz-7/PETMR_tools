@@ -9,10 +9,12 @@
     <img src="./brain-logo.png" alt="PETMR-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
 </div>
 
-> A suite of scripts assisting in the registration and processing of medical images acquired using a hybrid PET/MR platform for academic purpouses and use in other clinical grade medical imaging software suites. Currently in early stages of development.
+<p>
+> A collection of scripts assisting in the registration and processing of medical images acquired using a hybrid PET/MR platform for academic/research purpouses. Not for clinical use. Currently in early stages of development.
+</p>
 
 ### File Compatibility: 
-  - DICOM (.dcm) file format supported
+  - DICOM (.dcm) file input supported
   - Supports saving to DICOM (.dcm) format
   - Supports saving to .nifti.gz format
 
